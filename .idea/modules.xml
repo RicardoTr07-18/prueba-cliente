@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/prueba-cliente.iml" filepath="$PROJECT_DIR$/.idea/prueba-cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cetpro-back-micro-yml.iml" filepath="$PROJECT_DIR$/.idea/cetpro-back-micro-yml.iml" />
     </modules>
   </component>
 </project>
